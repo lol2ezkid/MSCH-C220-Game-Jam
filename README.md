@@ -5,8 +5,7 @@ MSCH-C220 Game Jam, April 2021
 How you thought about or interpreted the theme
 
 ## Game Play
-Objective
-Game-play instructions
+I did some coding and was in charge of impementing the coins. I added some extra work in there because I couldnt work on the orginal repository. 
 
 ## Impediments
 Struggles or surprises you encountered during the development of the game
